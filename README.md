@@ -1,7 +1,8 @@
 # ASP NET Core MVC
 
-Impelementação do tutorial ASP NET Core MVC 
- https://docs.microsoft.com/pt-br/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.2 
+Implementação do tutorial ASP NET Core MVC 
+
+https://docs.microsoft.com/pt-br/aspnet/core/data/ef-mvc/intro?view=aspnetcore-2.2 
 
 O aplicativo Web de exemplo Contoso University demonstra como criar aplicativos 
 Web em ASP.NET Core 2.2 MVC usando o EF (Entity Framework) Core 2.2 e o Visual Studio 2017 ou 2019.
