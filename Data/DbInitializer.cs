@@ -3,7 +3,7 @@ using SoaresUniversity.Models;
 using System;
 using System.Linq;
 
-namespace ContosoUniversity.Data
+namespace SoaresUniversity.Data
 {
     public static class DbInitializer
     {
